@@ -4,14 +4,7 @@
 
 <br> 
 
-<p align="left">
-  <a href="https://www.instagram.com/souherrmann/" target="_blank">
-    <img
-      src="https://i.ibb.co/VtWwSqB/instagram-follow-button-575d6dbf.png"
-      alt="Follow @souherrmann"
-    />
-  </a>
-</p>
+[https://i.ibb.co/VtWwSqB/instagram-follow-button-575d6dbf.png](https://www.instagram.com/souherrmann/)
 
 Developed at [Rocketseat GoStack Bootcamp](https://www.rocketseat.com.br/bootcamp).
 
@@ -50,7 +43,7 @@ This application was developed using ReactJS, which implements the shopping cart
 ## Getting Started
 
 - Install Node JS
-[https://i.dlpng.com/static/png/352461_thumb.png](https://nodejs.org/en/download/)
+[https://nodejs.org/en/download/](https://i.dlpng.com/static/png/352461_thumb.png)
 
 - Install Yarn
 > npm install -g yarn
