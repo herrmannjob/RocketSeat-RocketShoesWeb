@@ -4,7 +4,7 @@
 
 <br> 
 
-[![N|Solid](https://i.ibb.co/VtWwSqB/instagram-follow-button-575d6dbf.png)](https://www.instagram.com/souherrmann/)
+[![N|Solid](https://i.ibb.co/5nQzRZm/follow-us-on-instagram-transparent-png-774802.png)](https://www.instagram.com/souherrmann/)
 
 Developed at [Rocketseat GoStack Bootcamp](https://www.rocketseat.com.br/bootcamp).
 
