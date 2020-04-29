@@ -4,13 +4,17 @@
 
 <br> 
 
-[![N|Solid](https://i.ibb.co/5nQzRZm/follow-us-on-instagram-transparent-png-774802.png)](https://www.instagram.com/souherrmann/)
+<p align="center">
+  <a href="https://www.instagram.com/souherrmann/" target="_blank">
+    <img alt="Instagram SouHerrmann" src="https://i.ibb.co/5nQzRZm/follow-us-on-instagram-transparent-png-774802.png">
+  </a>
+</p>
 
 Developed at [Rocketseat GoStack Bootcamp](https://www.rocketseat.com.br/bootcamp).
 
 <p align="center">
   <a href="blank" target="_blank">
-    <img alt="View on Netlify" src="https://res.cloudinary.com/lukemorales/image/upload/v1563043495/readme_logos/demo_on_netlify_bbuvjz.png">
+    <img alt="Demo on Netlify" src="https://res.cloudinary.com/lukemorales/image/upload/v1563043495/readme_logos/demo_on_netlify_bbuvjz.png">
   </a>
 </p>
 
@@ -62,3 +66,12 @@ This application was developed using ReactJS, which implements the shopping cart
 
 ---
 
+if you have some Installation problem like: yarn-metadata.json: Unexpected end of JSON input, follow these steps:
+
+- Workaround the issue with
+> yarn cache clean
+
+- Then try install it again
+> npm install -g yarn
+
+that's all folks!
