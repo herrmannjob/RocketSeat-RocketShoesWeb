@@ -13,7 +13,7 @@
 Developed at [Rocketseat GoStack Bootcamp](https://www.rocketseat.com.br/bootcamp).
 
 <p align="center">
-  <a href="blank" target="_blank">
+  <a href="https://5ea9e8b1afbb95a5cbbc9c57--rocketshoesghg.netlify.app/" target="_blank">
     <img alt="Demo on Netlify" src="https://res.cloudinary.com/lukemorales/image/upload/v1563043495/readme_logos/demo_on_netlify_bbuvjz.png">
   </a>
 </p>
