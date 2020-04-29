@@ -43,7 +43,7 @@ This application was developed using ReactJS, which implements the shopping cart
 ## Getting Started
 
 - Install Node JS
-[https://i.dlpng.com/static/png/352461_thumb.png](https://nodejs.org/en/download/)
+![](https://i.dlpng.com/static/png/352461_thumb.png)(https://nodejs.org/en/download/)
 
 - Install Yarn
 > npm install -g yarn
