@@ -3,9 +3,9 @@
 </h1>
 
 <br> 
-<p align="center">
-[![N|Solid](https://i.ibb.co/5nQzRZm/follow-us-on-instagram-transparent-png-774802.png)](https://www.instagram.com/souherrmann/)
-</p>
+
+<center>[![N|Solid](https://i.ibb.co/5nQzRZm/follow-us-on-instagram-transparent-png-774802.png)](https://www.instagram.com/souherrmann/)
+
 Developed at [Rocketseat GoStack Bootcamp](https://www.rocketseat.com.br/bootcamp).
 
 <p align="center">
